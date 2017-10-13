@@ -32,7 +32,7 @@ For more info, please see [the instructions for running the exercise solutions](
 
 At the moment we gather all successfully paid orders and the only option we have is to process them in batches. Business is growing rapidly and we would like to process orders as soon as possible, not just at predefined intervals.
 
-Note: This is a hypothetical case. From experience we've seen a lot of developers implement batch processes to verify a certain state in the database. Sagas are 
+Note: This is a hypothetical case. From experience we've seen a lot of developers implement batch processes to verify a certain state in the database. Sagas are a solution to batch processes. If you would like to know more, you can [read our blogpost on this](https://particular.net/blog/death-to-the-batch-job) at a later time.
 
 ## Issues
 
